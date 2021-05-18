@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redprakash
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JAVASCRIPT 
+- 👀 I’m interested in web development(FrontEnd)
+- 🌱 I’m currently learning JAVASCRIPT and REACT
 
 
 
