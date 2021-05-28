@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @redprakash
-- 👀 I’m interested in web development(FrontEnd)
-- 🌱 I’m currently learning JAVASCRIPT and REACT
 
+<h1>👋 Hi, I’m Prakash Poudel (@redprakash)</h1>
+<hr width="100%" style="height:5px;">
+👀  I’m interested in web development(FrontEnd)<br>
+📕  I’m currently learning JAVASCRIPT and REACT<br>
+🚀  I'm looking to launch career as a Junior/Entry level FrontEnd Developer
 
+<hr width="100%" style="height:5px;">
+<h4> <a href="https://www.linkedin.com/in/prakashpoudel/">LinkedIn </a> • <a href="https://www.prakashpoudel.com/">Portfolio</a></h4>
 
 <!---
 redprakash/redprakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
