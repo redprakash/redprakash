@@ -6,7 +6,7 @@
 🚀  I'm looking to launch career as a Junior/Entry level FrontEnd Developer
 
 <hr width="100%" style="height:5px;">
-<h4> <a href="https://www.linkedin.com/in/prakashpoudel/">LinkedIn </a> • <a href="https://www.prakashpoudel.com/">Portfolio</a></h4>
+<h4> <a href="https://www.linkedin.com/in/prakashpoudel/" target="_blank">LinkedIn </a> • <a href="https://www.prakashpoudel.com/" target="_blank">Portfolio</a></h4>
 
 <!---
 redprakash/redprakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
