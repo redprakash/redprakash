@@ -1,9 +1,10 @@
 
 <h1>👋 Hi, I’m Prakash Poudel (@redprakash)</h1>
+<h3> EVERY EXPERT WAS ONCE A BEGINNER </h3>
 <hr width="100%" style="height:5px;">
-👀  I’m interested in web development(FrontEnd)<br>
-📕  I’m currently learning JAVASCRIPT and REACT<br>
-🚀  I'm looking to launch career as a Junior/Entry level FrontEnd Developer
+👀 &nbsp; I’m interested in web development(FrontEnd)<br>
+📕 &nbsp; I’m currently learning JAVASCRIPT and REACT<br>
+🚀 &nbsp; I'm looking to launch my career as a Junior/Entry level FrontEnd Developer
 
 <hr width="100%" style="height:5px;">
 <h4> <a href="https://www.linkedin.com/in/prakashpoudel/">LinkedIn </a> • <a href="https://www.prakashpoudel.com/">Portfolio</a></h4>
