@@ -2,7 +2,7 @@
 <h1>👋 Hi, I’m Prakash Poudel (@redprakash)</h1>
 <h3> EVERY EXPERT WAS ONCE A BEGINNER </h3>
 <hr width="100%" style="height:5px;">
-👀 &nbsp; I’m interested in web development(FrontEnd)<br>
+👀 &nbsp; I’m interested in web development(Full Stack)<br>
 📕 &nbsp; I’m currently learning JAVASCRIPT and REACT<br>
 🚀 &nbsp; I'm looking to launch my career as a Junior/Entry level FrontEnd Developer
 
