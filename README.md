@@ -4,7 +4,7 @@
 <hr width="100%" style="height:5px;">
 👀 &nbsp; I’m interested in web development(Full Stack)<br>
 📕 &nbsp; I’m currently learning JAVASCRIPT and REACT<br>
-🚀 &nbsp; I'm looking to launch my career as a Junior/Entry level FrontEnd Developer
+🚀 &nbsp; I'm Trainee Full Stack Engineer at _nology
 
 <hr width="100%" style="height:5px;">
 <h4> <a href="https://www.linkedin.com/in/prakashpoudel/">LinkedIn </a> • <a href="https://www.prakashpoudel.com/">Portfolio</a></h4>
