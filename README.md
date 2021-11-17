@@ -3,7 +3,6 @@
 <h3> EVERY EXPERT WAS ONCE A BEGINNER </h3>
 <hr width="100%" style="height:5px;">
 👀 &nbsp; I’m interested in web development(Full Stack)<br>
-📕 &nbsp; I’m currently learning JAVASCRIPT and REACT<br>
 🚀 &nbsp; I'm Trainee Full Stack Engineer at _nology
 
 <hr width="100%" style="height:5px;">
